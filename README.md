@@ -1,7 +1,7 @@
 ### Hi there, I'm Vader 👋
 
 ## I'm a Modder & Professional Game Engine Breaker
-<br />
+
 - 🔭 I’m currently working on total conversion mods for a game called Sins of a Solar Empire Rebellion. I also help out the KSP-RO team with bits & bobs.
 - 🌱 I’m always finding ways to break game engine code.
 - ⚡ Fun fact: I am a bearer of useless facts.
