@@ -2,8 +2,8 @@
 
 ## I'm a Modder & Professional Game Engine Breaker
 
-- 🔭 I’m currently working on total conversion mods for a game called Sins of a Solar Empire Rebellion. I also help out the KSP-RO team with bits & bobs.
-- 🌱 I’m always finding ways to break game engine code.
+- ⚡ I’m currently working on total conversion mods for a game called Sins of a Solar Empire Rebellion. I also help out the KSP-RO team with bits & bobs.
+- ⚡ I’m always finding ways to break game engine code.
 - ⚡ Fun fact 1: I am a bearer of useless facts.
 - ⚡ Fun fact 2: I may only be in my late 20's, but i'm full of gray hairs because thats what modding games does to you.
 
