@@ -1,19 +1,27 @@
 ### Hi there, I'm Vader 👋
 
-## I'm a Modder & Gamecode Breaker
+## I'm a Modder & Professional Gamecode Breaker
 - 🔭 I’m currently working on total conversion mods for a game called Sins of a Solar Empire Rebellion.
 - 🌱 I’m currently learning how not to break game engine code.
 - ⚡ Fun fact: I am a bearer of useless facts.
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Vader | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="Vader | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Vader | Discord" width="22px" src="https://d2e111jq13me73.cloudfront.net/sites/default/files/styles/product_image_aspect_switcher_170w/public/product-images/csm-app/discord-chat-for-gamers.png?itok=I3BN3Aoz" />][discord]
 <br />
 
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="Photoshop" width="26px" src="https://www.adobe.com/content/dam/acom/en/products/elements-family/e14/el-to-ccpp/photoshop-cc.icon.svg" />
+<img align="left" alt="Autodesk Softimage" width="26px" src="https://upload.wikimedia.org/wikipedia/en/6/64/SoftimageLogo.png" />
+<img align="left" alt="Blender" width="26px" src="https://cdn.lo4d.com/t/icon/70/blender.png" />
+<img align="left" alt="Unity" width="26px" src="https://visualpharm.com/assets/146/Unity-595b40b85ba036ed117de7e4.svg" />
+<img align="left" alt="Eclipse IDE" width="26px" src="https://www.ochobitshacenunbyte.com/wp-content/uploads/2014/06/eclipse-logo-150.jpg" />
+<img align="left" alt="Notepad ++" width="26px" src="https://softati.com/wp-content/uploads/2017/03/Notepad-Logo-100x100.png" />
+<img align="left" alt="Audacity" width="26px" src="https://dl1.cbsistatic.com/i/r/2018/02/22/9e6186b5-d2fa-4977-ac0c-3508e03646c4/thumbnail/64x64/f829bd40da5f2e4354d90da302e8b88f/imgingest-6466192197538730306.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
@@ -26,3 +34,4 @@
 
 [twitter]: https://twitter.com/vader111
 [youtube]: https://www.youtube.com/channel/UCpTi5-WnebQ2ZslG3xqhQrQ?
+[discord]: Vader111™#5794
