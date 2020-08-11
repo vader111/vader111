@@ -34,4 +34,4 @@
 
 [twitter]: https://twitter.com/vader111
 [youtube]: https://www.youtube.com/channel/UCpTi5-WnebQ2ZslG3xqhQrQ?
-[discord]: Vader111™#5794
+[discord]: https://discordapp.com/users/181751953905156096
