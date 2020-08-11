@@ -1,14 +1,9 @@
 ### Hi there, I'm Vader 👋
 
-<!--
-**vader111/vader111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
+## I'm a Modder & Gamecode Breaker
 - 🔭 I’m currently working on total conversion mods for a game called Sins of a Solar Empire Rebellion.
 - 🌱 I’m currently learning ho not to break game engine code.
 - ⚡ Fun fact: I am a bearer of useless facts.
--->
 
 ### Connect with me:
 
