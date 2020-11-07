@@ -27,7 +27,7 @@
 [<img align="left" alt="Audacity" width="26px" src="https://dl1.cbsistatic.com/i/r/2018/02/22/9e6186b5-d2fa-4977-ac0c-3508e03646c4/thumbnail/64x64/f829bd40da5f2e4354d90da302e8b88f/imgingest-6466192197538730306.png" />][Audacity]
 [<img align="center" alt="Tortoise Git" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/TortoiseGit_logo.svg/1200px-TortoiseGit_logo.svg.png" />][Tortoise Git]
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][Git]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][GitHub]
+[<img align="center" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][GitHub]
 
 <br />
 <br />
