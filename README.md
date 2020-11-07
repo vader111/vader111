@@ -9,7 +9,6 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Vader | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="Vader | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Vader | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
 
@@ -37,5 +36,4 @@
 <img align="left" alt="Vader's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=vader111&show_icons=true&hide_border=true" />
 
 [twitter]: https://twitter.com/Vader111M
-[youtube]: https://www.youtube.com/channel/UCpTi5-WnebQ2ZslG3xqhQrQ?
 [discord]: https://discordapp.com/users/181751953905156096
