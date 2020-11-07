@@ -7,7 +7,7 @@
 - ⚡ Fun fact 1: I am a bearer of useless facts.
 - ⚡ Fun fact 2: I may only be in my late 20's, but i'm full of gray hairs because thats what modding games does to you.
 
-### Connect with me:
+### Get in Touch with me:
 
 [<img align="left" alt="Vader | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Vader | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
