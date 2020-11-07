@@ -17,16 +17,17 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="Photoshop" width="26px" src="https://www.adobe.com/content/dam/acom/en/products/elements-family/e14/el-to-ccpp/photoshop-cc.icon.svg" />
-<img align="left" alt="Autodesk Softimage" width="26px" src="https://upload.wikimedia.org/wikipedia/en/6/64/SoftimageLogo.png" />
-<img align="left" alt="Blender" width="26px" src="https://cdn.lo4d.com/t/icon/70/blender.png" />
-<img align="left" alt="Unity" width="26px" src="https://visualpharm.com/assets/146/Unity-595b40b85ba036ed117de7e4.svg" />
-<img align="left" alt="Eclipse IDE" width="26px" src="https://www.ochobitshacenunbyte.com/wp-content/uploads/2014/06/eclipse-logo-150.jpg" />
-<img align="left" alt="Notepad ++" width="26px" src="https://softati.com/wp-content/uploads/2017/03/Notepad-Logo-100x100.png" />
-<img align="left" alt="Audacity" width="26px" src="https://dl1.cbsistatic.com/i/r/2018/02/22/9e6186b5-d2fa-4977-ac0c-3508e03646c4/thumbnail/64x64/f829bd40da5f2e4354d90da302e8b88f/imgingest-6466192197538730306.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][Visual Studio Code]
+[<img align="left" alt="Photoshop" width="26px" src="https://www.adobe.com/content/dam/acom/en/products/elements-family/e14/el-to-ccpp/photoshop-cc.icon.svg" />][Photoshop]
+[<img align="left" alt="Autodesk Softimage" width="26px" src="https://upload.wikimedia.org/wikipedia/en/6/64/SoftimageLogo.png" />][Autodesk Softimage]
+[<img align="left" alt="Blender" width="26px" src="https://cdn.lo4d.com/t/icon/70/blender.png" />][Blender]
+[<img align="left" alt="Unity" width="26px" src="https://visualpharm.com/assets/146/Unity-595b40b85ba036ed117de7e4.svg" />][Unity]
+[<img align="left" alt="Eclipse IDE" width="26px" src="https://www.ochobitshacenunbyte.com/wp-content/uploads/2014/06/eclipse-logo-150.jpg" />][Eclipse IDE]
+[<img align="left" alt="Notepad ++" width="26px" src="https://softati.com/wp-content/uploads/2017/03/Notepad-Logo-100x100.png" />][Notepad ++]
+[<img align="left" alt="Audacity" width="26px" src="https://dl1.cbsistatic.com/i/r/2018/02/22/9e6186b5-d2fa-4977-ac0c-3508e03646c4/thumbnail/64x64/f829bd40da5f2e4354d90da302e8b88f/imgingest-6466192197538730306.png" />][Audacity]
+[<img align="left" alt="Tortoise Git" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/TortoiseGit_logo.svg/1200px-TortoiseGit_logo.svg.png" />][Tortoise Git]
+[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][Git]
+[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][GitHub]
 
 <br />
 <br />
@@ -37,3 +38,14 @@
 
 [twitter]: https://twitter.com/Vader111M
 [discord]: https://discordapp.com/users/181751953905156096
+[Visual Studio Code]: https://code.visualstudio.com
+[Photoshop]: https://www.photoshop.com
+[Autodesk Softimage]: https://en.wikipedia.org/wiki/Autodesk_Softimage
+[Blender]: https://www.blender.org
+[Unity]: https://unity.com
+[Eclipse IDE]: https://www.eclipse.org/ide/
+[Notepad ++]: https://notepad-plus-plus.org
+[Audacity]: https://www.audacityteam.org/
+[Tortoise Git]: https://tortoisegit.org/
+[Git]: https://git-scm.com/
+[GitHub]: https://github.com/
