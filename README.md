@@ -1,6 +1,6 @@
-### Hi, I'm Vader 👋
+### Hi, I'm Vader, I'm a Grade A Shitposter. 👋
 
-## I’m A Semi Retired Modder, that now mostly just helps out the KSP-RO team.
+## I’m A Mostly Retired Mainstream Modder, that now mostly just helps out the KSP-RO team.
 - ⚡ I'm A Flthy Degenerate.
 - ⚡ I don't give a Fuck about your feelings.
 - ⚡ If i Hurt your Feelings then go cry a Fucking River.
