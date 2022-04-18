@@ -1,19 +1,18 @@
-### Hi, I'm Vader, I'm a Grade A Shitposter. 👋
+### I'm Vader ☠️
 
-## I’m A Mostly Retired Mainstream Modder, that now mostly just helps out the KSP-RO team.
-- ⚡ I'm A Flthy Degenerate.
-- ⚡ I don't give a Fuck about your feelings.
-- ⚡ If i Hurt your Feelings then go cry a Fucking River.
-- ⚡ I'm Getting Close to Earning my 30 Year Old Boomer Veteran Card.
+## I’m A Filthy 🐀 Who is Mostly Retired from Mainstream Modding.
 
-### How to get in touch with me:
-
-[<img align="left" alt="Vader | YouTube" width="35px" src="http://icons.iconarchive.com/icons/xenatt/the-circle/512/App-Twitter-icon.png" />][twitter]
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://komarev.com/ghpvc/?username=vader111&color=blue&style=flat-square" />
+</a>
 
 <br />
 
 ---
 
-![](https://github-readme-stats.vercel.app/api?username=vader111&show_icons=true&hide_border=true&count_private=true)
-
-[twitter]: https://twitter.com/Vader111M
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=vader111&layout=compact&show_icons=true&count_private=true&theme=dark" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vader111&layout=compact&theme=dark" />
+</a>
