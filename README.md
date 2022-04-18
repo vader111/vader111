@@ -1,9 +1,9 @@
 ### Hi, I'm Vader 👋
 
 ## I’m A Semi Retired Modder, that now mostly just helps out the KSP-RO team.
-- ⚡ While I do Enjoy Anime, I'm Not A Weeb.
-- ⚡ I Always try to Speak Facts that may or may not hurt your feelings.
-- ⚡ I Will Always Call out Bulls**t when i hear or see it.
+- ⚡ I'm A Flthy Degenerate.
+- ⚡ I don't give a Fuck about your feelings.
+- ⚡ If i Hurt your Feelings then go cry a Fucking River.
 - ⚡ I'm Getting Close to Earning my 30 Year Old Boomer Veteran Card.
 
 ### How to get in touch with me:
